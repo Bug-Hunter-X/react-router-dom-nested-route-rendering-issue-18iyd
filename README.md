@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with nested routes in React Router Dom v6.  The `Dashboard` component is supposed to render nested routes, but they fail to render due to a missing catch-all route or incorrect route configuration. The solution shows how to correctly configure nested routes for proper rendering.
